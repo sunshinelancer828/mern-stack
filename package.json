@@ -30,7 +30,7 @@
   "homepage": "https://github.com/amazingandyyy/mern#readme",
   "devDependencies": {
     "@amazingandyyy/git-hooks": "^0.1.0",
-    "eslint": "^4.14.0",
+    "eslint": "^8.56.0",
     "eslint-config-logux": "^17.0.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-es5": "^1.1.0",
